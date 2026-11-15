@@ -19,6 +19,7 @@
 </p>
 
 <p align="center">
+  <a href="https://xplauncher.pages.dev"><img alt="Website" src="https://img.shields.io/badge/Website-xplauncher.pages.dev-1B1830?style=for-the-badge&logo=cloudflare&logoColor=white"></a>
   <a href="https://github.com/slipptech-tech/XpLauncher/releases/latest/download/XpLauncher.exe"><img alt="Download XpLauncher for Windows" src="https://img.shields.io/badge/Download_for_Windows-XpLauncher.exe-7C5CFF?style=for-the-badge&logo=windows11&logoColor=white"></a>
 </p>
 
@@ -43,6 +44,7 @@ The interface is rendered with Dear ImGui on top of DirectX 11 inside a frameles
 | **Footprint** | Single ~1.5 MB executable, no runtime dependencies |
 | **Price** | Free, open source, no ads |
 | **License** | [MIT](LICENSE) |
+| **Website** | [xplauncher.pages.dev](https://xplauncher.pages.dev) |
 
 ## Screenshots
 
